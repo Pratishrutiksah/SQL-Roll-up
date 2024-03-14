@@ -1,1 +1,1 @@
-CUBE, ROLLUP and GROUPING SET are optional operators of the GROUP BY clause of the SELECT statement for doing reports with large amounts of information. This file conprises of codes in colab VM and contents Roll-up codes.
+This file contains Sql codes and Sql basics.
